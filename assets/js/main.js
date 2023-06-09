@@ -39,7 +39,7 @@
           console.log('Header-top activated');
 
           var fullName = document.querySelector('#full-name');
-          fullName.innerHTML = 'Uday Kanth Reddy Kakarla';
+          fullName.innerHTML = 'Ashish Patel';
 
           var custom_greet = document.querySelector('#intro-greeting');
           custom_greet.style.display = 'none';
